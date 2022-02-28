@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions agreed upon at a Court of Common Councell, in Guild Hall London, Feb. 21, 1642</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91096</idno>
+            <idno type="STC">Wing P3776</idno>
+            <idno type="STC">Thomason E90_14</idno>
+            <idno type="EEBO-CITATION">50290039</idno>
+            <idno type="OCLC">ocm 50290039</idno>
+            <idno type="VID">155732</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91096)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155732)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E90[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions agreed upon at a Court of Common Councell, in Guild Hall London, Feb. 21, 1642</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Richard Cotes, Printer to the Honorable City of London.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155732:1" rendition="simple:additions"/>
+            <p>PROPOSITIONS Agreed upon at a Court of Common Councell, In <hi>Guild Hall</hi> London. <hi>Feb.</hi> 21. 1642.</p>
+            <figure>
+               <figDesc>blazon or coat of arms of the City of London</figDesc>
+            </figure>
+            <p>Printed at <hi>London</hi> by <hi>Richard Cotes,</hi> Printer to the Hono<g ref="char:EOLhyphen"/>rable City of <hi>London.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:155732:2"/>
+            <pb n="1" facs="tcp:155732:2"/>
+            <head>Commune Concilium tentum in Camera <hi>Guild-hall</hi> Civita<g ref="char:EOLhyphen"/>tis <hi>London,</hi> viceſimo primo die <hi>Februarii 1642.</hi> poſt meridiem, Annoque Regni Domini noſtri <hi>Caroli,</hi> nunc Regis <hi>Angliae, &amp;c.</hi> decimo octavo, coram <hi>Iſaac Penning<g ref="char:EOLhyphen"/>ton</hi> Majore, ſecundo tempore, Civitatis <hi>London, Jacob. Garrad</hi> Milite, <hi>Thoma Atkin, Johan. Wollaſton</hi> Milite, <hi>Thoma Adams, Johan. Warner, Georgio Garret</hi> Milite, <hi>Johan. Fowke, Jacobo Bunce, Willi. Gibbs,</hi> &amp; <hi>Richardo Chambers,</hi> ejuſdem Civitatis Al<g ref="char:EOLhyphen"/>dermannis, ac <hi>Johan. Langham</hi> Aldermanno &amp; uno vi<g ref="char:EOLhyphen"/>cecomitum Civitatis praedictae, necnon majore parte Com<g ref="char:EOLhyphen"/>munariorum de Communi Concilio praedictae Civitatis tunc &amp; ibidem Aſſemblat.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His day Maſter Alderman <hi>Fowke</hi> made report un<g ref="char:EOLhyphen"/>to this Common-Councell, that himſelfe and the reſt of the Committees appointed by Order of Common-Councell, held the Eighteenth of this inſtant <hi>February,</hi> did accordingly yeſterday humbly informe both Houſes of Parliament, that their deſire of the Loane of threeſcore thouſand pounds to ſupply the Army ſignified by divers of the Lords and Commons to the ſaid Court was taken forthwith into conſideration. And notwithſtanding the great ſummes formerly lent by the City, they did with much chearefullneſſe and alacrity vote to do their uttermoſt indevour to raiſe the ſaid ſumme with all expedition.
+<pb n="2" facs="tcp:155732:3"/> And for the better promoting the ſaid Worke, the Lord Major, Aldermen, and Commons then preſent, did each declare what they would lend reſpectively towards the furniſhing therof. And cauſed an Order to be preſently made and Printed, and ſent out to the Miniſters of the ſeverall Pariſhes, to be publiſhed in the Churches, and to ſtirre up the Pariſhioners effectually to advance the remainder of the ſaid threeſcore thouſand pounds. And that the Common Councell men and Church-wardens ſhould repaire to every Inhabitant and Lodger within their ſeverall Pa<g ref="char:EOLhyphen"/>riſhes, and perſwade them unto this good work. And the ſaid Committee did further make report, that they did then alſo humbly preſent to both houſes of Parliament, the ſcope and in<g ref="char:EOLhyphen"/>tent of ſuch and ſo many of the Propoſitions referred unto them to be preſented, being to incourage the Subſcriptions of the ſaid threeſcore thouſand pounds, as in ſo ſhort a time they could conceive fit and needfull. And that the Lords and Commons in Parliament did returne thankes to this Common Councell for their great care and readineſſe in promoting the advancement of the ſaid threeſcore thouſand pounds by them deſired, and that they would take the ſaid Propoſitions into due conſiderati<g ref="char:EOLhyphen"/>on, The briefe heads whereof were after taken by the Clerke of the Houſe of Peeres. And a Coppy thereof was here now open<g ref="char:EOLhyphen"/>ly read in this Court, and approved of, and Ordered to be en<g ref="char:EOLhyphen"/>tred, The tenor whereof is as followeth.</p>
+            <p n="1">1. That both Houſes would vouchſafe to advance the raiſing of threeſcore thouſand pounds by their owne example, and by paying it in to the Treaſurers at <hi>Guild-hall,</hi> to the end that the ſight may incourage others.</p>
+            <p n="2">2. That they may be eaſed in the rates of the weekely Aſſeſſe<g ref="char:EOLhyphen"/>ments, becauſe it exceeds the proportion of the Counties, if it be not too late.</p>
+            <p n="3">3. That the three thouſand pounds <hi>per</hi> moneth granted out of the weekly Aſſeſſements, may be made foure thouſand pounds <hi>per</hi> moneth.</p>
+            <p n="4">4. That the Citizens Lands and houſes in the Country, may not be rated for the weekly Aſſeſſements, ſo as they pay in <hi>London</hi>
+            </p>
+            <p n="5">5. That in regard they are informed that divers miſ-informa<g ref="char:EOLhyphen"/>tions
+<pb n="3" facs="tcp:155732:3"/> have beene made concerning the City of <hi>London,</hi> by private perſons, it is humbly deſired that hereafter no ſuch credit may be given thereunto, as to be accompted the ſence of the City, un<g ref="char:EOLhyphen"/>leſſe it proceed from the Court of Aldermen, or Common Coun<g ref="char:EOLhyphen"/>cell, ſignified by ſpeciall Meſſengers of their owne, or by the Burgeſſes directed by one of the ſaid Courts.</p>
+            <p n="6">6. That it will much promote the ſaid Service if the money Aſſeſſed by vertue of divers Ordinances be collected forthwith in <hi>London</hi> and other parts of the Kingdome, that the charge may not wholly lie upon the willing part, for that otherwiſe the well-affected will be either deſtroyed with them, or for them; with them if they ſhould refuſe as others doe; or for them, by contributing alone to the publike ſafety, more then their eſtates will beare.</p>
+            <p n="7">7. That ſearch may be made without the Liberties in the parts adjacent for ſuſpected perſons, and that upon the disban<g ref="char:EOLhyphen"/>ding thoſe that are called the Kings Army may be enjoyned to go to their ſeverall habitations, and not to come to <hi>London,</hi> to the diſturbance of the peace, ſafety, and welfare of the ſaid City, and of the good government thereof; and that during the time of the Treaty and Ceſſation, none of the ſaid Army may be permitted to come to the City.</p>
+            <p n="8">8. That to prevent miſapprehenſions and jealouſies concer<g ref="char:EOLhyphen"/>ning the preſent proceedings of both Houſes of Parliament, a<g ref="char:EOLhyphen"/>bout the Treaty and Ceſſation, and disbanding; it is humbly prayed it may be declared that the reſolutions of both Houſes is the ſame, as at the firſt, that nothing ſhall be done but that which tends to the ſecurity of the true reformed Proteſtant Re<g ref="char:EOLhyphen"/>ligion, the juſt Liberties of the Subjects, and Priviledges of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p n="9">9. That the Ordinances of the weekly Aſſeſſements may paſſe forthwith for the ſecurities of the re-imburſing of the threeſcore thouſand pounds, which otherwiſe will not be raiſed.</p>
+            <p>Alſo this Court taking into conſideration the reſidue of the particulars referred unto the ſaid Committee to be preſented to both houſes of Parliament, and the ſaid Committees opinion thereupon; and apprehending that the propoſitions lately ſent
+<pb n="4" facs="tcp:155732:4"/> to his Majeſty by both Houſes of Parliament, doe eminently tend to the preſervation of our Religion, Lawes, and Liberties, and to a Reformation of what is amiſſe in Church and Com<g ref="char:EOLhyphen"/>mon-wealth, doe order the ſaid Committee to render from this City all humble thankfulneſſe to both the ſaid Houſes for their great care therein, and to preſent their farther humble deſires as followeth.</p>
+            <p>Firſt, that his Excellency, the Earle of <hi>Eſſex,</hi> be deſired to take order:</p>
+            <p n="1">1. That the broken Regiments, and Troopes in his Army may be reduced and made 1200. in each Regiment, and 80. in each Troope, to the end that the exceſſive charge of paying more Officers then are neceſſary, may be avoided, and the Counties which want Officers may be ſupplied, and ſuch as are moſt ſcan<g ref="char:EOLhyphen"/>dalous may be caſheerd.</p>
+            <p n="2">2. That ſpeciall care be taken that the common Souldiers be duly paid from time to time, without which they cannot ſub<g ref="char:EOLhyphen"/>ſiſt, and that for the better affecting thereof (a great part of them being raiſed out of the City) that an honeſt able man be there choſen for each Regiment of horſe &amp; foot reſpectively, to muſter &amp; pay the ſaid Souldiers, and view their Armes, cauſing them to be made good according to the rules of War, and that fit allowance be given to the ſaid Pay maſters for their Service.</p>
+            <p n="3">3. That in regard this unhappy and unnaturall Warre is lengthned out beyond expectation, and the Officers of the ſaid Army have already received great pay, and are engaged in the publike cauſe as well as others, who have lent great ſummes of mony to pay them, that therefore they will ſo farre expreſſe their good affections to the King and Parliament, as to forbeare one halfe of their areares and future pay upon the publike Faith.</p>
+            <p n="4">4. That the ſaid Officers and Souldiers may take ſuch an oath as is uſed in times of warre in other countries to be faithfull to thoſe that imploy them, and from whom they receive their pay.</p>
+            <p n="5">5. That ſuch priſoners as already are or hereafter ſhall be ta<g ref="char:EOLhyphen"/>ken
+<pb n="5" facs="tcp:155732:4"/> by any of the ſaid Army if they cannot bee enterchanged, may be uſed as they are or ſhall be uſed which are or ſhall bee ta<g ref="char:EOLhyphen"/>ken by thoſe who are called the Kings Army.</p>
+            <p n="6">6. That all unneceſſary charges about the traine of Artillery and otherwiſe bee taken away, and that honeſt and able pay-maſters be thereto appointed, who may carefully enquire and re<g ref="char:EOLhyphen"/>preſent what charges are ſuperfluous.</p>
+            <p n="2">2. That in the intended treaty ſuch care bee taken for the in<g ref="char:EOLhyphen"/>demnity of the Citie, and Citizens of <hi>London,</hi> and of the privi<g ref="char:EOLhyphen"/>ledges thereof as may ſecure them, and be a witneſſe to the pre<g ref="char:EOLhyphen"/>ſent and future generations of their fidelity to the King and Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p n="3">3. That our dangers being great and our ſinnes greater (where<g ref="char:EOLhyphen"/>of we have beene ſeaſonably put in minde by a late Ordinance of both houſes of Parliament) there may be a Religious covenant and firme aſſociation forthwith entred into by the Lords and Commons, Citie, Army, and all well-affected in the Kingdome, according to a promiſe publikely made at a Common Hall, in the name of both the ſaid Houſes; in expectation whereof the Citie then freely lent one hundred thouſand pounds. And that the Rents, Revenues, Goods, Monies and Eſtates of ſuch as ſhall refuſe to enter into that Covenant and Aſſociation be im<g ref="char:EOLhyphen"/>ployed in ſuch manner and proportion as both the ſaid Houſes ſhall thinke fit and their perſons ſecured for the good and ſafety of the Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
